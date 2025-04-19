@@ -4,6 +4,7 @@ import { Student } from '../models/Student.js';
 import jwt from 'jsonwebtoken';
 import bcrypt from 'bcrypt';
 
+
 const router = express.Router();
 
 router.post('/login', async (req, res) => {
