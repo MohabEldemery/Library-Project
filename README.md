@@ -1,4 +1,5 @@
 University Library Management System
+
 Project Overview
 This web application was developed as part of my thesis at the University of Debrecen. It serves as a digital platform for managing library operations, allowing students to check book availability and enabling administrators to manage books and student records efficiently.
 
